@@ -31,4 +31,12 @@ O projeto utiliza JavaScript para gerenciar as funcionalidades e manipulação d
 - `sortearAmigo()`: Sorteia e exibe um amigo secreto da lista.
 - `novoSorteio()`: Limpa a lista de amigos e inicia um novo sorteio.
 
+Essas funções funcionam juntas para fornecer a funcionalidade completa do aplicativo de sorteio de amigo secreto, desde a adição de amigos até a realização e reinício do sorteio.
 
+Quem contribuiu com o projeto:
+
+Os instrutores dos cursos.
+No forum da Alura
+Varios Parceiros do Discord.
+Muitos sites, pesquisa e muita persistência.
+https://amigo-secreto-psi-dusky.vercel.app/
